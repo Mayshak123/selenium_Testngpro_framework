@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite">
+    <test name="Test">
+        <classes>
+
+            <!-- <class name="com.example.testNG.dependsOnMethods"/> -->
+            <class name="com.example.testNG.Annotations"/>
+
+        </classes>
+    </test>
+</suite>

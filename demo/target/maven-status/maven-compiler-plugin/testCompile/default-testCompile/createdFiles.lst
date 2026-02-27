@@ -1,0 +1,4 @@
+com\example\testNG\Annotations.class
+com\example\testNG\dependsOnMethods.class
+com\example\AppTest.class
+com\example\testNG\PriorityClass.class
